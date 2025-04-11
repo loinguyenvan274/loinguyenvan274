@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!---->
-## 📊 Top ngôn ngữ được dùng
+## Top ngôn ngữ được dùng
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loinguyenvan274&layout=compact&langs_count=10&hide_progress=false&theme=default)
 
 
 
 <!--               -->
-"Core values"
+
